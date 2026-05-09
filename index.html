@@ -67,29 +67,79 @@
       background: linear-gradient(90deg, var(--accent), #16a34a);
     }
 
-    .fussballde_widget {
+    #fussballde-widget-root {
       min-height: 200px;
     }
+
+    #fussballde-widget-root iframe {
+      display: block;
+    }
   </style>
-  <script
-    type="text/javascript"
-    src="https://www.fussball.de/widgets.js"
-  ></script>
 </head>
 <body>
   <div class="wrap">
     <header>
       <h1>Spielplan</h1>
-      <p>Daten von Fussball.de</p>
+      <p>Daten von Fussball.de – zuerst vergangene Spiele</p>
     </header>
     <div class="card">
-      <div
-        class="fussballde_widget"
-        data-id="cea3d880-eaaf-4c3f-acf7-481c305d9cbf"
-        data-type="club-matches"
-        style="width: 100%"
-      ></div>
+      <div id="fussballde-widget-root" style="width: 100%"></div>
     </div>
   </div>
+  <script>
+    (function () {
+      var widgetId = "cea3d880-eaaf-4c3f-acf7-481c305d9cbf";
+      var widgetType = "club-matches";
+
+      function generateSecureRandomId(length) {
+        var randomValues = new Uint32Array(length);
+        window.crypto.getRandomValues(randomValues);
+        var characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+        var result = "";
+        for (var i = 0; i < length; i++) {
+          result += characters[randomValues[i] % characters.length];
+        }
+        return result;
+      }
+
+      function mount() {
+        var container = document.getElementById("fussballde-widget-root");
+        if (!container) return;
+
+        var iframeName = generateSecureRandomId(4) + "_fussballde_widget-" + widgetId;
+        var iframe = document.createElement("iframe");
+        iframe.setAttribute(
+          "src",
+          "https://next.fussball.de/widget/" +
+            widgetType +
+            "/" +
+            widgetId +
+            "?matchView=prev"
+        );
+        iframe.setAttribute("name", iframeName);
+        iframe.style.width = "100%";
+        iframe.style.border = "none";
+        iframe.setAttribute("frameborder", "0");
+        iframe.setAttribute("scrolling", "no");
+        container.appendChild(iframe);
+
+        window.addEventListener("message", function (event) {
+          if (
+            event.data &&
+            event.data.type === "fussballde_widget:resize" &&
+            event.data.iframeName === iframeName
+          ) {
+            iframe.style.height = event.data.height + "px";
+          }
+        });
+      }
+
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", mount);
+      } else {
+        mount();
+      }
+    })();
+  </script>
 </body>
 </html>
