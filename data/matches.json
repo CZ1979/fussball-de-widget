@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "widgetId": "cea3d880-eaaf-4c3f-acf7-481c305d9cbf",
+    "widgetType": "club-matches",
+    "widgetUrl": "https://next.fussball.de/widget/club-matches/cea3d880-eaaf-4c3f-acf7-481c305d9cbf",
+    "generatedAt": "2026-05-09T18:53:25.031Z",
+    "clubName": "SKG Sprendlingen",
+    "note": "Anzeigetexte (z. B. Mannschaftsnamen, Datum-Strings in kickoff) können von Fussball.de verschleiert sein. Für Automation eignen sich id, status, teamPermanentId, clubId und links."
+  },
+  "widgetQueryParams": {
+    "isPrintMode": false,
+    "matchView": "next",
+    "matchesOrTable": "matches"
+  },
+  "previousMatches": [
+    {
+      "id": "02UKCODJ80000000VS5489BTVTPCB0P4",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "-1011638170",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02UAT8HLK8000004VS5489BUVT0P4V1F-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02TK1O4TJC000000VS5489BSVUALD4UK",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02TMCL8N30000000VS5489BSVUCOJR2F",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9L800004MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "    ",
+        "clubId": "00ES8GN9L800004MVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02UKCODJ80000000VS5489BTVTPCB0P4",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02TMCL8N30000000VS5489BSVUCOJR2F",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02TK1O4TJC000000VS5489BSVUALD4UK"
+      }
+    },
+    {
+      "id": "02VJ9OG6KC000000VS5489BTVUS4P6QU",
+      "status": "finished",
+      "kickoff": {
+        "dateKey": "-1011638170",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "​   ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02VFMEJN5G000004VS5489BUVVUFGBQS-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02TGVE9J9C000000VS5489BSVTA87VEB",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000AVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U000000AVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02EVO4O7I4000000VS5489B2VUBVHUE0",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02VJ9OG6KC000000VS5489BTVUS4P6QU",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02EVO4O7I4000000VS5489B2VUBVHUE0",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02TGVE9J9C000000VS5489BSVTA87VEB"
+      }
+    },
+    {
+      "id": "02VJ9BIIAO000000VS5489BTVUS4P6QU",
+      "status": "acknowledged",
+      "kickoff": {
+        "dateKey": "-1011638170",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": " ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02V984QV3S000005VS5489BTVTAM0PAN-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "011MICN95S000000VTVG0001VTR8C1K7",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00003JVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9MG00003JVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02EVO45GK0000000VS5489B2VUBVHUE0",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
+      },
+      "hasSubscription": false,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02VJ9BIIAO000000VS5489BTVUS4P6QU",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02EVO45GK0000000VS5489B2VUBVHUE0",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/011MICN95S000000VTVG0001VTR8C1K7"
+      }
+    },
+    {
+      "id": "02VJ9114I8000000VS5489BTVUS4P6QU",
+      "status": "acknowledged",
+      "kickoff": {
+        "dateKey": "-1011638170",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02VFMCNNIG000002VS5489BUVVUFGBQS-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02BE4HNFUC000000VS5489B2VU21J0QC",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U0000004VV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U0000004VV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02TK1QAJ98000000VS5489BSVUALD4UK",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
+      },
+      "hasSubscription": false,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02VJ9114I8000000VS5489BTVUS4P6QU",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02TK1QAJ98000000VS5489BSVUALD4UK",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02BE4HNFUC000000VS5489B2VU21J0QC"
+      }
+    },
+    {
+      "id": "030CB1GGUG000000VS5489BUVTD8EF64",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "-1011638170",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "​    ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "030CARGUM4000003VS5489BUVTD8EF64-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02EVO574K4000000VS5489B2VUBVHUE0",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ​  ",
+        "clubId": ""
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/030CB1GGUG000000VS5489BUVTD8EF64",
+        "homeTeam": null,
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02EVO574K4000000VS5489B2VUBVHUE0"
+      }
+    }
+  ],
+  "nextMatches": [
+    {
+      "id": "02VIRH1FE0000000VS5489BUVVUFGBQS",
+      "status": "cancelled",
+      "kickoff": {
+        "dateKey": "-2120930692",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02VFCAVK38000006VS5489BTVS0RUON0-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "011MID36SG000000VTVG0001VTR8C1K7",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002VVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9MG00002VVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02FUETHEL4000000VS5489B2VTU9O096",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "description": " ",
+      "hasSubscription": false,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02VIRH1FE0000000VS5489BUVVUFGBQS",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02FUETHEL4000000VS5489B2VTU9O096",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/011MID36SG000000VTVG0001VTR8C1K7"
+      }
+    },
+    {
+      "id": "02VILMPHUG000000VS5489BUVVUFGBQS",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "-2120930692",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02VFC57J28000006VS5489BTVS0RUON0-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02EUILAI0O000000VS5489B1VT0RKM5V",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG000039VV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "​",
+        "clubId": "00ES8GN9MG000039VV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02EVO3U45K000000VS5489B2VUBVHUE0",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02VILMPHUG000000VS5489BUVVUFGBQS",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02EVO3U45K000000VS5489B2VUBVHUE0",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02EUILAI0O000000VS5489B1VT0RKM5V"
+      }
+    },
+    {
+      "id": "02TSPFUCQ0000000VS5489BTVTHCTAHT",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "-2120930692",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02TSNP5H10000005VS5489BTVTHCTAHT-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02IP3D22A4000000VS5489B2VU3QR439",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ​ ​",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "023SSC6SDC000000VS548985VTD6GGR5",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002SVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9MG00002SVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02TSPFUCQ0000000VS5489BTVTHCTAHT",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/023SSC6SDC000000VS548985VTD6GGR5",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02IP3D22A4000000VS5489B2VU3QR439"
+      }
+    },
+    {
+      "id": "030OJF2C4S000000VS5489BUVS0F17VK",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "-2120930692",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "​​​​​",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02TJRDE2NK000000VS5489BTVV9SFN07-D",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02EVO45GK0000000VS5489B2VUBVHUE0",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02S8MA6BSC000000VS5489B2VSKOF6OB",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00001LVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "     ",
+        "clubId": "00ES8GN9MG00001LVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/030OJF2C4S000000VS5489BUVS0F17VK",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02S8MA6BSC000000VS5489B2VSKOF6OB",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02EVO45GK0000000VS5489B2VUBVHUE0"
+      }
+    },
+    {
+      "id": "02VRTOD85C000001VS5489BTVSU54FN7",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "-760813952",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02VP0OJIGO000000VS5489BTVTG66ASV-R",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02TK1QAJ98000000VS5489BSVUALD4UK",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
+        "name": " ​  ",
+        "clubId": ""
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02VRTOD85C000001VS5489BTVSU54FN7",
+        "homeTeam": null,
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02TK1QAJ98000000VS5489BSVUALD4UK"
+      }
+    }
+  ]
+}
