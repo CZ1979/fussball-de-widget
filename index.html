@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vereinsspiele – Fussball.de</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --text: #e8ecf1;
+      --muted: #8b9cb3;
+      --accent: #22c55e;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      background: radial-gradient(ellipse 120% 80% at 50% -20%, #1e3a2f 0%, var(--bg) 55%);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    .wrap {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 3rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    header h1 {
+      font-size: clamp(1.35rem, 4vw, 1.75rem);
+      font-weight: 600;
+      margin: 0 0 0.35rem;
+      letter-spacing: -0.02em;
+    }
+
+    header p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .card {
+      background: var(--surface);
+      border-radius: 12px;
+      padding: 1.25rem;
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+    }
+
+    .card::before {
+      content: "";
+      display: block;
+      height: 3px;
+      border-radius: 3px 3px 0 0;
+      margin: -1.25rem -1.25rem 1rem;
+      background: linear-gradient(90deg, var(--accent), #16a34a);
+    }
+
+    .fussballde_widget {
+      min-height: 200px;
+    }
+  </style>
+  <script
+    type="text/javascript"
+    src="https://www.fussball.de/widgets.js"
+  ></script>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Spielplan</h1>
+      <p>Daten von Fussball.de</p>
+    </header>
+    <div class="card">
+      <div
+        class="fussballde_widget"
+        data-id="cea3d880-eaaf-4c3f-acf7-481c305d9cbf"
+        data-type="club-matches"
+        style="width: 100%"
+      ></div>
+    </div>
+  </div>
+</body>
+</html>
