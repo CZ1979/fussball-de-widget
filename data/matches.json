@@ -3,7 +3,7 @@
     "widgetId": "cea3d880-eaaf-4c3f-acf7-481c305d9cbf",
     "widgetType": "club-matches",
     "widgetUrl": "https://next.fussball.de/widget/club-matches/cea3d880-eaaf-4c3f-acf7-481c305d9cbf",
-    "generatedAt": "2026-05-30T04:39:24.430Z",
+    "generatedAt": "2026-05-30T07:21:52.190Z",
     "clubName": "SKG Sprendlingen",
     "note": "Die Felder competitionName, kickoff-Texte und team.name in den Rohdaten sind von Fussball.de oft verschleiert. Für n8n und Auswertungen bitte vorrangig match.readable nutzen (Kommt von www.fussball.de/spiel/-/spiel/<id>, Klartext für Teams, Wettbewerb, Ort). Endstände sind dort teils ebenfalls geschützt; dann ggf. result / halfTimeScore oder die Rohfelder prüfen."
   },
@@ -14,40 +14,94 @@
   },
   "previousMatches": [
     {
-      "id": "02UKCODJRK000000VS5489BTVTPCB0P4",
-      "status": "acknowledged",
+      "id": "02VJ911488000000VS5489BTVUS4P6QU",
+      "status": "scheduled",
       "kickoff": {
-        "dateKey": "-1404665180",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "dateKey": "1781009594",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "  ",
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02VFMCNNIG000002VS5489BUVVUFGBQS-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02MBER148G000000VS5489B2VURM3E5J",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002JVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9MG00002JVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02TK1QAJ98000000VS5489BSVUALD4UK",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "readable": {
+        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/02VJ911488000000VS5489BTVUS4P6QU",
+        "pageTitle": "SKG Sprendlingen IV - Spvgg. Dietesheim III Ergebnis: E-Junioren 1.Kreisklasse - E-Junioren - 30.05.2026",
+        "description": "Alle Spielinfos zur Begegnung E-Junioren 1.Kreisklasse - 2025/2026 der Kreis Offenbach E-Junioren 1.Kreisklasse E-Junioren im Hessen bei FUSSBALL.DE",
+        "competition": "8. Kreisklasse Offenbach",
+        "homeTeam": "SKG Sprendlingen IV",
+        "awayTeam": "Spvgg. Dietesheim III",
+        "venue": "Kunstrasenplatz, KR Dreieich-Sprendlingen (May), Maybachstr., 63303 Dreieich"
+      },
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02VJ911488000000VS5489BTVUS4P6QU",
+        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/02VJ911488000000VS5489BTVUS4P6QU",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02TK1QAJ98000000VS5489BSVUALD4UK",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02MBER148G000000VS5489B2VURM3E5J"
+      }
+    },
+    {
+      "id": "02UKCODJRK000000VS5489BTVTPCB0P4",
+      "status": "acknowledged",
+      "kickoff": {
+        "dateKey": "-1404665180",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "02UAT8HLK8000004VS5489BUVT0P4V1F-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02J3352JIK000000VS5489B1VT5IA4MF",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000FVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9U000000FVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02TK1O4TJC000000VS5489BSVUALD4UK",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "",
-        "homeResult": "",
-        "guestResult": ""
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
       },
       "hasSubscription": false,
       "venue": null,
@@ -74,34 +128,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "1530185376",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "",
+      "competitionName": "",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "030V3C2SA0000001VS5489BTVT51B5B5-R",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO53KJK000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
-        "name": "   ",
+        "name": "   ",
         "clubId": ""
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -128,38 +182,38 @@
       "status": "acknowledged",
       "kickoff": {
         "dateKey": "850127006",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "  ",
+      "competitionName": "  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "02TQ7P6J0000000DVS5489BUVSPHI8RP-G",
       "leagueLevel": "",
-      "teamType": "",
+      "teamType": "",
       "guestTeam": {
         "teamPermanentId": "02TCKEDQ7S000000VS5489BSVV9JRPRB",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000PVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "   ",
+        "name": "   ",
         "clubId": "00ES8GN9U000000PVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02IBHMTM7O000000VS5489B2VU2I8R4H",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": " ",
-        "homeResult": "",
-        "guestResult": "",
+        "text": " ",
+        "homeResult": "",
+        "guestResult": "",
         "specialResult": true,
-        "ratingLetter": ""
+        "ratingLetter": ""
       },
       "hasSubscription": false,
       "venue": null,
@@ -184,36 +238,36 @@
       "status": "acknowledged",
       "kickoff": {
         "dateKey": "850127006",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "  ",
+      "competitionName": "  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "02TSNP5H10000005VS5489BTVTHCTAHT-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02B92UGHN8000000VS5489B2VSCHU9TQ",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GNA1O00000GVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "     ​",
+        "name": "     ​",
         "clubId": "00ES8GNA1O00000GVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02IP3D22A4000000VS5489B2VU3QR439",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ​ ​",
+        "name": "  ​ ​",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "",
-        "homeResult": "",
-        "guestResult": ""
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
       },
       "hasSubscription": false,
       "venue": null,
@@ -234,152 +288,42 @@
         "homeTeam": "https://next.fussball.de/mannschaft/-/02IP3D22A4000000VS5489B2VU3QR439",
         "guestTeam": "https://next.fussball.de/mannschaft/-/02B92UGHN8000000VS5489B2VSCHU9TQ"
       }
-    },
-    {
-      "id": "02UK0OMS80000000VS5489BTVTPCB0P4",
-      "status": "acknowledged",
-      "kickoff": {
-        "dateKey": "850127006",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
-      },
-      "live": false,
-      "liveTickerCount": null,
-      "videoCount": 0,
-      "notAllocated": false,
-      "competitionName": "   ",
-      "competitionBasicTypeId": "",
-      "competitionBasicTypeName": "",
-      "compoundId": "02U0822630000004VS5489BTVUFLAKGJ-G",
-      "leagueLevel": "",
-      "teamType": "​",
-      "guestTeam": {
-        "teamPermanentId": "02EVO6AVF4000000VS5489B2VUBVHUE0",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
-        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
-      },
-      "homeTeam": {
-        "teamPermanentId": "016IQC087G000000VV0AG811VSBH97M6",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9V8000007VV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "   ",
-        "clubId": "00ES8GN9V8000007VV0AG08LVUPGND5I"
-      },
-      "result": {
-        "text": "",
-        "homeResult": "",
-        "guestResult": ""
-      },
-      "hasSubscription": false,
-      "venue": null,
-      "prePublished": false,
-      "readable": {
-        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/02UK0OMS80000000VS5489BTVTPCB0P4",
-        "pageTitle": "1. FFV 97 Oberursel - SKG Sprendlingen Ergebnis: D-Juniorinnen A-Liga (Region) - D-Juniorinnen - 23.05.2026",
-        "description": "Alle Spielinfos zur Begegnung D-Juniorinnen A-Liga (Region) - 2025/2026 der Region Frankfurt D-Juniorinnen A-Liga (Region) D-Juniorinnen im Hessen bei FUSSBALL.DE",
-        "competition": "DMKL Frankfurt Liga A",
-        "homeTeam": "1. FFV 97 Oberursel",
-        "awayTeam": "SKG Sprendlingen",
-        "venue": "Rasenplatz, RP Oberursel (Bleibiskopf), Karl-Hermann-Flach-Str., 61440 Oberursel (Taunus)",
-        "halfTimeScore": "[2 : 0]"
-      },
-      "links": {
-        "match": "https://next.fussball.de/spiel/-/02UK0OMS80000000VS5489BTVTPCB0P4",
-        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/02UK0OMS80000000VS5489BTVTPCB0P4",
-        "homeTeam": "https://next.fussball.de/mannschaft/-/016IQC087G000000VV0AG811VSBH97M6",
-        "guestTeam": "https://next.fussball.de/mannschaft/-/02EVO6AVF4000000VS5489B2VUBVHUE0"
-      }
     }
   ],
   "nextMatches": [
-    {
-      "id": "02VJ911488000000VS5489BTVUS4P6QU",
-      "status": "scheduled",
-      "kickoff": {
-        "dateKey": "1781009594",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
-      },
-      "live": false,
-      "liveTickerCount": null,
-      "videoCount": 0,
-      "notAllocated": false,
-      "competitionName": "  ",
-      "competitionBasicTypeId": "",
-      "competitionBasicTypeName": "",
-      "compoundId": "02VFMCNNIG000002VS5489BUVVUFGBQS-G",
-      "leagueLevel": "",
-      "teamType": "​",
-      "guestTeam": {
-        "teamPermanentId": "02MBER148G000000VS5489B2VURM3E5J",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002JVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
-        "clubId": "00ES8GN9MG00002JVV0AG08LVUPGND5I"
-      },
-      "homeTeam": {
-        "teamPermanentId": "02TK1QAJ98000000VS5489BSVUALD4UK",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
-        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
-      },
-      "result": {
-        "text": "  ",
-        "specialResult": false
-      },
-      "hasSubscription": true,
-      "venue": null,
-      "prePublished": false,
-      "readable": {
-        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/02VJ911488000000VS5489BTVUS4P6QU",
-        "pageTitle": "SKG Sprendlingen IV - Spvgg. Dietesheim III Ergebnis: E-Junioren 1.Kreisklasse - E-Junioren - 30.05.2026",
-        "description": "Alle Spielinfos zur Begegnung E-Junioren 1.Kreisklasse - 2025/2026 der Kreis Offenbach E-Junioren 1.Kreisklasse E-Junioren im Hessen bei FUSSBALL.DE",
-        "competition": "8. Kreisklasse Offenbach",
-        "homeTeam": "SKG Sprendlingen IV",
-        "awayTeam": "Spvgg. Dietesheim III",
-        "venue": "Kunstrasenplatz, KR Dreieich-Sprendlingen (May), Maybachstr., 63303 Dreieich"
-      },
-      "links": {
-        "match": "https://next.fussball.de/spiel/-/02VJ911488000000VS5489BTVUS4P6QU",
-        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/02VJ911488000000VS5489BTVUS4P6QU",
-        "homeTeam": "https://next.fussball.de/mannschaft/-/02TK1QAJ98000000VS5489BSVUALD4UK",
-        "guestTeam": "https://next.fussball.de/mannschaft/-/02MBER148G000000VS5489B2VURM3E5J"
-      }
-    },
     {
       "id": "02VJ9OG6QC000000VS5489BTVUS4P6QU",
       "status": "scheduled",
       "kickoff": {
         "dateKey": "1781009594",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "​   ",
+      "competitionName": "​   ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "02VFMEJN5G000004VS5489BUVVUFGBQS-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO4O7I4000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "016I84QPJ0000000VV0AG811VSBH97M6",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00003NVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ​ ",
+        "name": " ​ ",
         "clubId": "00ES8GN9MG00003NVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -406,34 +350,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "1781009594",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "  ",
+      "competitionName": "  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "02VB2U85E8000006VS5489BUVSBO41N4-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "011MIBGBIG000000VTVG0001VTR8C1K7",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002JVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9MG00002JVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02EVO4BM9K000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -460,34 +404,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "1781009594",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "​    ",
+      "competitionName": "​    ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "030CARGUM400000BVS5489BUVTD8EF64-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO574K4000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
-        "name": "    ",
+        "name": "    ",
         "clubId": ""
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -513,34 +457,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "1781009594",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": " ",
+      "competitionName": " ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "02V984QV3S000005VS5489BTVTAM0PAN-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO45GK0000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "012SM132JS000000VV0AG80NVS1E8EB5",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U0000004VV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U0000004VV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -560,6 +504,60 @@
         "matchLegacy": "https://www.fussball.de/spiel/-/spiel/02VJ9BII04000000VS5489BTVUS4P6QU",
         "homeTeam": "https://next.fussball.de/mannschaft/-/012SM132JS000000VV0AG80NVS1E8EB5",
         "guestTeam": "https://next.fussball.de/mannschaft/-/02EVO45GK0000000VS5489B2VUBVHUE0"
+      }
+    },
+    {
+      "id": "02UK0OMSFG000000VS5489BTVTPCB0P4",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "1781009594",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "   ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "02U0822630000004VS5489BTVUFLAKGJ-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02TFB8V9RS000000VS5489BSVTA87VEB",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00001QVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "   ",
+        "clubId": "00ES8GN9MG00001QVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02EVO6AVF4000000VS5489B2VUBVHUE0",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "readable": {
+        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/02UK0OMSFG000000VS5489BTVTPCB0P4",
+        "pageTitle": "SKG Sprendlingen - 1. FC Mittelbuchen II Ergebnis: D-Juniorinnen A-Liga (Region) - D-Juniorinnen - 30.05.2026",
+        "description": "Alle Spielinfos zur Begegnung D-Juniorinnen A-Liga (Region) - 2025/2026 der Region Frankfurt D-Juniorinnen A-Liga (Region) D-Juniorinnen im Hessen bei FUSSBALL.DE",
+        "competition": "DMKL Frankfurt Liga A",
+        "homeTeam": "SKG Sprendlingen",
+        "awayTeam": "1. FC Mittelbuchen II",
+        "venue": "Kunstrasenplatz, KR Dreieich-Sprendlingen (May), Maybachstr., 63303 Dreieich"
+      },
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/02UK0OMSFG000000VS5489BTVTPCB0P4",
+        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/02UK0OMSFG000000VS5489BTVTPCB0P4",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02EVO6AVF4000000VS5489B2VUBVHUE0",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02TFB8V9RS000000VS5489BSVTA87VEB"
       }
     }
   ]
