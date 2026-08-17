@@ -3,7 +3,7 @@
     "widgetId": "cea3d880-eaaf-4c3f-acf7-481c305d9cbf",
     "widgetType": "club-matches",
     "widgetUrl": "https://next.fussball.de/widget/club-matches/cea3d880-eaaf-4c3f-acf7-481c305d9cbf",
-    "generatedAt": "2026-08-17T01:56:27.919Z",
+    "generatedAt": "2026-08-17T04:04:54.951Z",
     "clubName": "SKG Sprendlingen",
     "note": "Die Felder competitionName, kickoff-Texte und team.name in den Rohdaten sind von Fussball.de oft verschleiert. Für n8n und Auswertungen bitte vorrangig match.readable nutzen (Kommt von www.fussball.de/spiel/-/spiel/<id>, Klartext für Teams, Wettbewerb, Ort). Endstände sind dort teils ebenfalls geschützt; dann ggf. result / halfTimeScore oder die Rohfelder prüfen."
   },
@@ -18,36 +18,36 @@
       "status": "acknowledged",
       "kickoff": {
         "dateKey": "5131871",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "  ",
+      "competitionName": "  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031DDRG7QO00000EVS5489BTVUS470OH-G",
       "leagueLevel": "",
-      "teamType": "",
+      "teamType": "",
       "guestTeam": {
         "teamPermanentId": "011MIE14SO000000VTVG0001VTR8C1K7",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00003EVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9MG00003EVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02IBHMTM7O000000VS5489B2VU2I8R4H",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "",
-        "homeResult": "",
-        "guestResult": ""
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
       },
       "hasSubscription": false,
       "venue": null,
@@ -74,36 +74,36 @@
       "status": "acknowledged",
       "kickoff": {
         "dateKey": "5131871",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "​​​​​",
+      "competitionName": "​​​​​",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031GCF76M8000000VS5489BTVVG7L386-D",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02IP3D22A4000000VS5489B2VU3QR439",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ​ ​",
+        "name": "  ​ ​",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "0201PGLJKC000000VS548984VSUCHKOE",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9L800006BVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9L800006BVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "",
-        "homeResult": "",
-        "guestResult": ""
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
       },
       "hasSubscription": false,
       "venue": null,
@@ -130,36 +130,36 @@
       "status": "acknowledged",
       "kickoff": {
         "dateKey": "5131871",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "​  ",
+      "competitionName": "​  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031CEK7N8S000004VS5489BTVUS470OH-R",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "011MIBMUN8000000VTVG0001VTR8C1K7",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00003NVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ​",
+        "name": " ​",
         "clubId": "00ES8GN9MG00003NVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02EVO3U45K000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "",
-        "homeResult": "",
-        "guestResult": ""
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
       },
       "hasSubscription": false,
       "venue": null,
@@ -186,36 +186,36 @@
       "status": "acknowledged",
       "kickoff": {
         "dateKey": "1812586334",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": " ​  ",
+      "competitionName": " ​  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031BJSHF2S000001VS5489BTVUS470OH-R",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO3IQF8000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02EV5HB7VG000000VS5489B1VT0RKM5V",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002FVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9MG00002FVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "",
-        "homeResult": "",
-        "guestResult": ""
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
       },
       "hasSubscription": false,
       "venue": null,
@@ -242,34 +242,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "1812586334",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "​    ​",
+      "competitionName": "​    ​",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031I6V1A3K000001VS5489BTVSRD0UH9-R",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO53KJK000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
-        "name": "   ",
+        "name": "   ",
         "clubId": ""
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -298,34 +298,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "-1802322592",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "​  ",
+      "competitionName": "​  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031BSD98P4000000VS5489BUVUR5FS5A-R",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02Q17MRK6O000000VS5489B1VVDHMN8Q",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG000030VV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9MG000030VV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02EVO45GK0000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -352,34 +352,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "-1122264222",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "",
+      "competitionName": "",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031PA5HKD4000001VS5489BTVT8K11BC-R",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO4O7I4000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
-        "name": "   ",
+        "name": "   ",
         "clubId": ""
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -405,34 +405,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "-1551498374",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "​  ",
+      "competitionName": "​  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031DPK1PD800000AVS5489BUVUR5FS5A-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO53KJK000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ​  ",
+        "name": "  ​  ",
         "clubId": ""
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -458,34 +458,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "-1551498374",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "​  ",
+      "competitionName": "​  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031DPKFC4S000006VS5489BUVUR5FS5A-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO574K4000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
-        "name": "    ",
+        "name": "    ",
         "clubId": ""
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -511,34 +511,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "-1551498374",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "​  ",
+      "competitionName": "​  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031DOJ14IG000000VS5489BUVUR5FS5A-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "03163FFKV4000000VS5489BSVSCPI5U4",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000SVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9U000000SVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02VCFRCQQK000000VS5489BSVVC6BHG0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
