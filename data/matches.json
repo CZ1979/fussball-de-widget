@@ -3,7 +3,7 @@
     "widgetId": "cea3d880-eaaf-4c3f-acf7-481c305d9cbf",
     "widgetType": "club-matches",
     "widgetUrl": "https://next.fussball.de/widget/club-matches/cea3d880-eaaf-4c3f-acf7-481c305d9cbf",
-    "generatedAt": "2026-08-30T06:38:44.535Z",
+    "generatedAt": "2026-08-30T09:26:44.353Z",
     "clubName": "SKG Sprendlingen",
     "note": "Die Felder competitionName, kickoff-Texte und team.name in den Rohdaten sind von Fussball.de oft verschleiert. Für n8n und Auswertungen bitte vorrangig match.readable nutzen (Kommt von www.fussball.de/spiel/-/spiel/<id>, Klartext für Teams, Wettbewerb, Ort). Endstände sind dort teils ebenfalls geschützt; dann ggf. result / halfTimeScore oder die Rohfelder prüfen."
   },
@@ -14,40 +14,204 @@
   },
   "previousMatches": [
     {
-      "id": "031FPDLCFS000000VS5489BTVVG7L386",
-      "status": "acknowledged",
+      "id": "031FCMM1OC000000VS5489BUVSJ4CRAP",
+      "status": "scheduled",
       "kickoff": {
-        "dateKey": "-1318777727",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "dateKey": "1866897047",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "  ",
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "031DFFJ1Q8000006VS5489BUVUR5FS5A-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02ROL8IBTG000000VS5489B1VVTMGKD4",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "0317IOSD4O000000VS5489BRVVV10ESU",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U0000008VV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "    ",
+        "clubId": "00ES8GN9U0000008VV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "readable": {
+        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031FCMM1OC000000VS5489BUVSJ4CRAP",
+        "pageTitle": "SG Wiking 03 Offenbach 4 - SKG Sprendlingen III Ergebnis: D-Junioren 1.Kreisklasse - D-Junioren - 30.08.2026",
+        "description": "Alle Spielinfos zur Begegnung D-Junioren 1.Kreisklasse - 2026/2027 der Kreis Offenbach D-Junioren 1.Kreisklasse D-Junioren im Hessen bei FUSSBALL.DE",
+        "competition": "Herbstrunde Kreisklasse Gr.10",
+        "homeTeam": "SG Wiking 03 Offenbach 4",
+        "awayTeam": "SKG Sprendlingen III",
+        "venue": "Kunstrasenplatz, KR1 OF (SANA Sportpark), Wiener Ring, 63073 Offenbach am Main"
+      },
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/031FCMM1OC000000VS5489BUVSJ4CRAP",
+        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031FCMM1OC000000VS5489BUVSJ4CRAP",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/0317IOSD4O000000VS5489BRVVV10ESU",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02ROL8IBTG000000VS5489B1VVTMGKD4"
+      }
+    },
+    {
+      "id": "031FCIU80K000000VS5489BUVSJ4CRAP",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "1866897047",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "031DFEOQO0000005VS5489BUVUR5FS5A-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "023V2ISN2O000000VS548984VSVTAEJ3",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002KVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9MG00002KVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02FUETHEL4000000VS5489B2VTU9O096",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "readable": {
+        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031FCIU80K000000VS5489BUVSJ4CRAP",
+        "pageTitle": "SKG Sprendlingen II - FC Dietzenbach II Ergebnis: D-Junioren 1.Kreisklasse - D-Junioren - 30.08.2026",
+        "description": "Alle Spielinfos zur Begegnung D-Junioren 1.Kreisklasse - 2026/2027 der Kreis Offenbach D-Junioren 1.Kreisklasse D-Junioren im Hessen bei FUSSBALL.DE",
+        "competition": "Herbstrunde Kreisklasse Gr.4",
+        "homeTeam": "SKG Sprendlingen II",
+        "awayTeam": "FC Dietzenbach II",
+        "venue": "Kunstrasenplatz, KR Dreieich-Sprendlingen (May), Maybachstr., 63303 Dreieich"
+      },
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/031FCIU80K000000VS5489BUVSJ4CRAP",
+        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031FCIU80K000000VS5489BUVSJ4CRAP",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02FUETHEL4000000VS5489B2VTU9O096",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/023V2ISN2O000000VS548984VSVTAEJ3"
+      }
+    },
+    {
+      "id": "031FCEU530000000VS5489BUVSJ4CRAP",
+      "status": "acknowledged",
+      "kickoff": {
+        "dateKey": "1866897047",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "   ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "031DFD4M4S000004VS5489BUVUR5FS5A-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02EVO3U45K000000VS5489B2VUBVHUE0",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "011MIAS0F0000000VTVG0001VTR8C1K7",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG000035VV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9MG000035VV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
+      },
+      "hasSubscription": false,
+      "venue": null,
+      "prePublished": false,
+      "readable": {
+        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031FCEU530000000VS5489BUVSJ4CRAP",
+        "pageTitle": "TSV Heusenstamm - SKG Sprendlingen Ergebnis: D-Junioren 1.Kreisliga - D-Junioren - 30.08.2026",
+        "description": "Alle Spielinfos zur Begegnung D-Junioren 1.Kreisliga - 2026/2027 der Kreis Offenbach D-Junioren 1.Kreisliga D-Junioren im Hessen bei FUSSBALL.DE",
+        "competition": "Kreisliga Qualifikation Gr. 2",
+        "homeTeam": "TSV Heusenstamm",
+        "awayTeam": "SKG Sprendlingen",
+        "venue": "Rasenplatz, RP Heusenstamm (TSV), Martinseestr. 6, 63150 Heusenstamm",
+        "halfTimeScore": "[0 : 1]"
+      },
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/031FCEU530000000VS5489BUVSJ4CRAP",
+        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031FCEU530000000VS5489BUVSJ4CRAP",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/011MIAS0F0000000VTVG0001VTR8C1K7",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02EVO3U45K000000VS5489B2VUBVHUE0"
+      }
+    },
+    {
+      "id": "031FPDLCFS000000VS5489BTVVG7L386",
+      "status": "acknowledged",
+      "kickoff": {
+        "dateKey": "-1318777727",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031DFA46P4000000VS5489BUVUR5FS5A-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02EVO3IQF8000000VS5489B2VUBVHUE0",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "027GINGBLG000000VS5489B2VVDR0U48",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00003EVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
+        "name": "  ",
         "clubId": "00ES8GN9MG00003EVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "",
-        "homeResult": "",
-        "guestResult": ""
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
       },
       "hasSubscription": false,
       "venue": null,
@@ -74,36 +238,36 @@
       "status": "acknowledged",
       "kickoff": {
         "dateKey": "-1318777727",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "    ",
+      "competitionName": "    ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031EBGG92O000004VS5489BUVUR5FS5A-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "02TK1O4TJC000000VS5489BSVUALD4UK",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ​ ​",
+        "name": "  ​ ​",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "031AT1IPLO000000VS5489BSVU0ORN69",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/01HARAK1QS000000VV0AG811VSOBR7LA/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "01HARAK1QS000000VV0AG811VSOBR7LA"
       },
       "result": {
-        "text": "",
-        "homeResult": "",
-        "guestResult": ""
+        "text": "",
+        "homeResult": "",
+        "guestResult": ""
       },
       "hasSubscription": false,
       "venue": null,
@@ -124,365 +288,42 @@
         "homeTeam": "https://next.fussball.de/mannschaft/-/031AT1IPLO000000VS5489BSVU0ORN69",
         "guestTeam": "https://next.fussball.de/mannschaft/-/02TK1O4TJC000000VS5489BSVUALD4UK"
       }
-    },
-    {
-      "id": "031FPM2V94000000VS5489BTVVG7L386",
-      "status": "acknowledged",
-      "kickoff": {
-        "dateKey": "-1318777727",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
-      },
-      "live": false,
-      "liveTickerCount": null,
-      "videoCount": 0,
-      "notAllocated": false,
-      "competitionName": "​  ",
-      "competitionBasicTypeId": "",
-      "competitionBasicTypeName": "",
-      "compoundId": "031DHCO86G000005VS5489BUVUR5FS5A-G",
-      "leagueLevel": "",
-      "teamType": "​",
-      "guestTeam": {
-        "teamPermanentId": "016GLGP2A4000000VV0AG811VVBQE8G0",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00003DVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
-        "clubId": "00ES8GN9MG00003DVV0AG08LVUPGND5I"
-      },
-      "homeTeam": {
-        "teamPermanentId": "02EVO4O7I4000000VS5489B2VUBVHUE0",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
-        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
-      },
-      "result": {
-        "text": "  ",
-        "specialResult": false
-      },
-      "hasSubscription": false,
-      "venue": null,
-      "prePublished": false,
-      "readable": {
-        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031FPM2V94000000VS5489BTVVG7L386",
-        "pageTitle": "SKG Sprendlingen - TSV Lämmerspiel Ergebnis: F-Junioren Kinderfußball - F-Junioren - 29.08.2026",
-        "description": "Alle Spielinfos zur Begegnung F-Junioren Kinderfußball - 2026/2027 der Kreis Offenbach F-Junioren Kinderfußball F-Junioren im Hessen bei FUSSBALL.DE",
-        "competition": "F-Jugend 5vs5 Gr.2",
-        "homeTeam": "SKG Sprendlingen",
-        "awayTeam": "TSV Lämmerspiel",
-        "venue": "Kunstrasenplatz, KR Dreieich-Sprendlingen (May), Maybachstr., 63303 Dreieich",
-        "result": "o.E."
-      },
-      "links": {
-        "match": "https://next.fussball.de/spiel/-/031FPM2V94000000VS5489BTVVG7L386",
-        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031FPM2V94000000VS5489BTVVG7L386",
-        "homeTeam": "https://next.fussball.de/mannschaft/-/02EVO4O7I4000000VS5489B2VUBVHUE0",
-        "guestTeam": "https://next.fussball.de/mannschaft/-/016GLGP2A4000000VV0AG811VVBQE8G0"
-      }
-    },
-    {
-      "id": "031DPRBKV0000000VS5489BUVUR5FS5A",
-      "status": "scheduled",
-      "kickoff": {
-        "dateKey": "-1318777727",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
-      },
-      "live": false,
-      "liveTickerCount": null,
-      "videoCount": 0,
-      "notAllocated": false,
-      "competitionName": "​  ",
-      "competitionBasicTypeId": "",
-      "competitionBasicTypeName": "",
-      "compoundId": "031DPK1PDC000008VS5489BUVUR5FS5A-G",
-      "leagueLevel": "",
-      "teamType": "​",
-      "guestTeam": {
-        "teamPermanentId": "02EVO53KJK000000VS5489B2VUBVHUE0",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
-        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
-      },
-      "homeTeam": {
-        "teamPermanentId": "",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
-        "name": "    ",
-        "clubId": ""
-      },
-      "result": {
-        "text": "  ",
-        "specialResult": false
-      },
-      "hasSubscription": true,
-      "venue": null,
-      "prePublished": false,
-      "readable": {
-        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031DPRBKV0000000VS5489BUVUR5FS5A",
-        "pageTitle": "TSV Heusenstamm I - Kinderfestival - SKG Sprendlingen Ergebnis: G-Junioren Kinderfußball - G-Junioren - 29.08.2026",
-        "description": "Alle Spielinfos zur Begegnung G-Junioren Kinderfußball - 2026/2027 der Kreis Offenbach G-Junioren Kinderfußball G-Junioren im Hessen bei FUSSBALL.DE",
-        "competition": "Festival 2.4",
-        "homeTeam": "SKG Sprendlingen",
-        "awayTeam": "SKG Sprendlingen"
-      },
-      "links": {
-        "match": "https://next.fussball.de/spiel/-/031DPRBKV0000000VS5489BUVUR5FS5A",
-        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031DPRBKV0000000VS5489BUVUR5FS5A",
-        "homeTeam": null,
-        "guestTeam": "https://next.fussball.de/mannschaft/-/02EVO53KJK000000VS5489B2VUBVHUE0"
-      }
-    },
-    {
-      "id": "031DQ1P6F0000000VS5489BUVUR5FS5A",
-      "status": "scheduled",
-      "kickoff": {
-        "dateKey": "-1318777727",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
-      },
-      "live": false,
-      "liveTickerCount": null,
-      "videoCount": 0,
-      "notAllocated": false,
-      "competitionName": "​  ",
-      "competitionBasicTypeId": "",
-      "competitionBasicTypeName": "",
-      "compoundId": "031DPKFC4S00000BVS5489BUVUR5FS5A-G",
-      "leagueLevel": "",
-      "teamType": "​",
-      "guestTeam": {
-        "teamPermanentId": "02EVO574K4000000VS5489B2VUBVHUE0",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
-        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
-      },
-      "homeTeam": {
-        "teamPermanentId": "",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
-        "name": "       ",
-        "clubId": ""
-      },
-      "result": {
-        "text": "  ",
-        "specialResult": false
-      },
-      "hasSubscription": true,
-      "venue": null,
-      "prePublished": false,
-      "readable": {
-        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031DQ1P6F0000000VS5489BUVUR5FS5A",
-        "pageTitle": "1. FC Langen III / 2 - Kinderfestival - SKG Sprendlingen II Ergebnis: G-Junioren Kinderfußball - G-Junioren - 29.08.2026",
-        "description": "Alle Spielinfos zur Begegnung G-Junioren Kinderfußball - 2026/2027 der Kreis Offenbach G-Junioren Kinderfußball G-Junioren im Hessen bei FUSSBALL.DE",
-        "competition": "Festival 2.2",
-        "homeTeam": "SKG Sprendlingen II",
-        "awayTeam": "SKG Sprendlingen II"
-      },
-      "links": {
-        "match": "https://next.fussball.de/spiel/-/031DQ1P6F0000000VS5489BUVUR5FS5A",
-        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031DQ1P6F0000000VS5489BUVUR5FS5A",
-        "homeTeam": null,
-        "guestTeam": "https://next.fussball.de/mannschaft/-/02EVO574K4000000VS5489B2VUBVHUE0"
-      }
     }
   ],
   "nextMatches": [
-    {
-      "id": "031FCEU530000000VS5489BUVSJ4CRAP",
-      "status": "scheduled",
-      "kickoff": {
-        "dateKey": "1866897047",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
-      },
-      "live": false,
-      "liveTickerCount": null,
-      "videoCount": 0,
-      "notAllocated": false,
-      "competitionName": "   ",
-      "competitionBasicTypeId": "",
-      "competitionBasicTypeName": "",
-      "compoundId": "031DFD4M4S000004VS5489BUVUR5FS5A-G",
-      "leagueLevel": "",
-      "teamType": "​",
-      "guestTeam": {
-        "teamPermanentId": "02EVO3U45K000000VS5489B2VUBVHUE0",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
-        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
-      },
-      "homeTeam": {
-        "teamPermanentId": "011MIAS0F0000000VTVG0001VTR8C1K7",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG000035VV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
-        "clubId": "00ES8GN9MG000035VV0AG08LVUPGND5I"
-      },
-      "result": {
-        "text": "  ",
-        "specialResult": false
-      },
-      "hasSubscription": true,
-      "venue": null,
-      "prePublished": false,
-      "readable": {
-        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031FCEU530000000VS5489BUVSJ4CRAP",
-        "pageTitle": "TSV Heusenstamm - SKG Sprendlingen Ergebnis: D-Junioren 1.Kreisliga - D-Junioren - 30.08.2026",
-        "description": "Alle Spielinfos zur Begegnung D-Junioren 1.Kreisliga - 2026/2027 der Kreis Offenbach D-Junioren 1.Kreisliga D-Junioren im Hessen bei FUSSBALL.DE",
-        "competition": "Kreisliga Qualifikation Gr. 2",
-        "homeTeam": "TSV Heusenstamm",
-        "awayTeam": "SKG Sprendlingen",
-        "venue": "Rasenplatz, RP Heusenstamm (TSV), Martinseestr. 6, 63150 Heusenstamm"
-      },
-      "links": {
-        "match": "https://next.fussball.de/spiel/-/031FCEU530000000VS5489BUVSJ4CRAP",
-        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031FCEU530000000VS5489BUVSJ4CRAP",
-        "homeTeam": "https://next.fussball.de/mannschaft/-/011MIAS0F0000000VTVG0001VTR8C1K7",
-        "guestTeam": "https://next.fussball.de/mannschaft/-/02EVO3U45K000000VS5489B2VUBVHUE0"
-      }
-    },
-    {
-      "id": "031FCIU80K000000VS5489BUVSJ4CRAP",
-      "status": "scheduled",
-      "kickoff": {
-        "dateKey": "1866897047",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
-      },
-      "live": false,
-      "liveTickerCount": null,
-      "videoCount": 0,
-      "notAllocated": false,
-      "competitionName": "  ",
-      "competitionBasicTypeId": "",
-      "competitionBasicTypeName": "",
-      "compoundId": "031DFEOQO0000005VS5489BUVUR5FS5A-G",
-      "leagueLevel": "",
-      "teamType": "​",
-      "guestTeam": {
-        "teamPermanentId": "023V2ISN2O000000VS548984VSVTAEJ3",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002KVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
-        "clubId": "00ES8GN9MG00002KVV0AG08LVUPGND5I"
-      },
-      "homeTeam": {
-        "teamPermanentId": "02FUETHEL4000000VS5489B2VTU9O096",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
-        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
-      },
-      "result": {
-        "text": "  ",
-        "specialResult": false
-      },
-      "hasSubscription": true,
-      "venue": null,
-      "prePublished": false,
-      "readable": {
-        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031FCIU80K000000VS5489BUVSJ4CRAP",
-        "pageTitle": "SKG Sprendlingen II - FC Dietzenbach II Ergebnis: D-Junioren 1.Kreisklasse - D-Junioren - 30.08.2026",
-        "description": "Alle Spielinfos zur Begegnung D-Junioren 1.Kreisklasse - 2026/2027 der Kreis Offenbach D-Junioren 1.Kreisklasse D-Junioren im Hessen bei FUSSBALL.DE",
-        "competition": "Herbstrunde Kreisklasse Gr.4",
-        "homeTeam": "SKG Sprendlingen II",
-        "awayTeam": "FC Dietzenbach II",
-        "venue": "Kunstrasenplatz, KR Dreieich-Sprendlingen (May), Maybachstr., 63303 Dreieich"
-      },
-      "links": {
-        "match": "https://next.fussball.de/spiel/-/031FCIU80K000000VS5489BUVSJ4CRAP",
-        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031FCIU80K000000VS5489BUVSJ4CRAP",
-        "homeTeam": "https://next.fussball.de/mannschaft/-/02FUETHEL4000000VS5489B2VTU9O096",
-        "guestTeam": "https://next.fussball.de/mannschaft/-/023V2ISN2O000000VS548984VSVTAEJ3"
-      }
-    },
-    {
-      "id": "031FCMM1OC000000VS5489BUVSJ4CRAP",
-      "status": "scheduled",
-      "kickoff": {
-        "dateKey": "1866897047",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
-      },
-      "live": false,
-      "liveTickerCount": null,
-      "videoCount": 0,
-      "notAllocated": false,
-      "competitionName": "  ",
-      "competitionBasicTypeId": "",
-      "competitionBasicTypeName": "",
-      "compoundId": "031DFFJ1Q8000006VS5489BUVUR5FS5A-G",
-      "leagueLevel": "",
-      "teamType": "​",
-      "guestTeam": {
-        "teamPermanentId": "02ROL8IBTG000000VS5489B1VVTMGKD4",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ",
-        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
-      },
-      "homeTeam": {
-        "teamPermanentId": "0317IOSD4O000000VS5489BRVVV10ESU",
-        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U0000008VV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "    ",
-        "clubId": "00ES8GN9U0000008VV0AG08LVUPGND5I"
-      },
-      "result": {
-        "text": "  ",
-        "specialResult": false
-      },
-      "hasSubscription": true,
-      "venue": null,
-      "prePublished": false,
-      "readable": {
-        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031FCMM1OC000000VS5489BUVSJ4CRAP",
-        "pageTitle": "SG Wiking 03 Offenbach 4 - SKG Sprendlingen III Ergebnis: D-Junioren 1.Kreisklasse - D-Junioren - 30.08.2026",
-        "description": "Alle Spielinfos zur Begegnung D-Junioren 1.Kreisklasse - 2026/2027 der Kreis Offenbach D-Junioren 1.Kreisklasse D-Junioren im Hessen bei FUSSBALL.DE",
-        "competition": "Herbstrunde Kreisklasse Gr.10",
-        "homeTeam": "SG Wiking 03 Offenbach 4",
-        "awayTeam": "SKG Sprendlingen III",
-        "venue": "Kunstrasenplatz, KR1 OF (SANA Sportpark), Wiener Ring, 63073 Offenbach am Main"
-      },
-      "links": {
-        "match": "https://next.fussball.de/spiel/-/031FCMM1OC000000VS5489BUVSJ4CRAP",
-        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031FCMM1OC000000VS5489BUVSJ4CRAP",
-        "homeTeam": "https://next.fussball.de/mannschaft/-/0317IOSD4O000000VS5489BRVVV10ESU",
-        "guestTeam": "https://next.fussball.de/mannschaft/-/02ROL8IBTG000000VS5489B1VVTMGKD4"
-      }
-    },
     {
       "id": "031F2UDIIC000000VS5489BTVUS470OH",
       "status": "scheduled",
       "kickoff": {
         "dateKey": "1866897047",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "  ",
+      "competitionName": "  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031F2PI5MK000006VS5489BTVUS470OH-G",
       "leagueLevel": "",
-      "teamType": "​",
+      "teamType": "​",
       "guestTeam": {
         "teamPermanentId": "016GNKJTAG000000VV0AG80NVV638PD6",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9L800004TVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9L800004TVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02IP3D22A4000000VS5489B2VU3QR439",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "  ​ ​",
+        "name": "  ​ ​",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -509,34 +350,34 @@
       "status": "scheduled",
       "kickoff": {
         "dateKey": "1866897047",
-        "date": "",
-        "dateWithWeekday": " ",
-        "time": ""
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
       },
       "live": false,
       "liveTickerCount": null,
       "videoCount": 0,
       "notAllocated": false,
-      "competitionName": "  ",
+      "competitionName": "  ",
       "competitionBasicTypeId": "",
       "competitionBasicTypeName": "",
       "compoundId": "031DDRG7QO00000EVS5489BTVUS470OH-G",
       "leagueLevel": "",
-      "teamType": "",
+      "teamType": "",
       "guestTeam": {
         "teamPermanentId": "011MI9CRHS000000VTVG0001VTR8C1K7",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002HVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": "    ",
+        "name": "    ",
         "clubId": "00ES8GN9MG00002HVV0AG08LVUPGND5I"
       },
       "homeTeam": {
         "teamPermanentId": "02IBHMTM7O000000VS5489B2VU2I8R4H",
         "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
-        "name": " ",
+        "name": " ",
         "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
       },
       "result": {
-        "text": "  ",
+        "text": "  ",
         "specialResult": false
       },
       "hasSubscription": true,
@@ -556,6 +397,165 @@
         "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031DFEG6AC000000VS5489BUVUR5FS5A",
         "homeTeam": "https://next.fussball.de/mannschaft/-/02IBHMTM7O000000VS5489B2VU2I8R4H",
         "guestTeam": "https://next.fussball.de/mannschaft/-/011MI9CRHS000000VTVG0001VTR8C1K7"
+      }
+    },
+    {
+      "id": "031FCMM264000000VS5489BUVSJ4CRAP",
+      "status": "cancelled",
+      "kickoff": {
+        "dateKey": "-1129842213",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "031DFFJ1Q8000006VS5489BUVUR5FS5A-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02ROL8IBTG000000VS5489B1VVTMGKD4",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "0319DUIEFO000000VS5489BSVU0ORN69",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9MG00002FVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "   ",
+        "clubId": "00ES8GN9MG00002FVV0AG08LVUPGND5I"
+      },
+      "description": " ",
+      "hasSubscription": false,
+      "venue": null,
+      "prePublished": false,
+      "readable": {
+        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031FCMM264000000VS5489BUVSJ4CRAP",
+        "pageTitle": "FC Germ. Bieber 3 - SKG Sprendlingen III Ergebnis: D-Junioren 1.Kreisklasse - D-Junioren - 02.09.2026",
+        "description": "Alle Spielinfos zur Begegnung D-Junioren 1.Kreisklasse - 2026/2027 der Kreis Offenbach D-Junioren 1.Kreisklasse D-Junioren im Hessen bei FUSSBALL.DE",
+        "competition": "Herbstrunde Kreisklasse Gr.10",
+        "homeTeam": "FC Germ. Bieber 3",
+        "awayTeam": "SKG Sprendlingen III",
+        "venue": "Kunstrasenplatz, KR OF-Bieber (Waldhofstr), Waldhofstr. 33, 63073 Offenbach am Main",
+        "result": "Nichtantritt GAST"
+      },
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/031FCMM264000000VS5489BUVSJ4CRAP",
+        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031FCMM264000000VS5489BUVSJ4CRAP",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/0319DUIEFO000000VS5489BSVU0ORN69",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02ROL8IBTG000000VS5489B1VVTMGKD4"
+      }
+    },
+    {
+      "id": "031F2UDJ54000000VS5489BTVUS470OH",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "-1129842213",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "031F2PI5MK000006VS5489BTVUS470OH-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02TKV0GFLO000000VS5489BRVTFKGF73",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9V800004NVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9V800004NVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "02IP3D22A4000000VS5489B2VU3QR439",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": "  ​ ​",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "readable": {
+        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031F2UDJ54000000VS5489BTVUS470OH",
+        "pageTitle": "MSG SKG Sprendlingen/TSG Neu-Isenburg - FSV Erbach Ergebnis: B-Juniorinnen Verbandsliga - B-Juniorinnen - 02.09.2026",
+        "description": "Alle Spielinfos zur Begegnung B-Juniorinnen Verbandsliga - 2026/2027 der Hessen B-Juniorinnen Verbandsliga B-Juniorinnen im Hessen bei FUSSBALL.DE",
+        "competition": "BM Verbandsliga Süd",
+        "homeTeam": "MSG SKG Sprendlingen/&#8203;TSG Neu-Isenburg",
+        "awayTeam": "FSV Erbach",
+        "venue": "Kunstrasenplatz, KR Neu-Isenburg (Buchenbusch), Neuhöfer Str., 63263 Neu-Isenburg"
+      },
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/031F2UDJ54000000VS5489BTVUS470OH",
+        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031F2UDJ54000000VS5489BTVUS470OH",
+        "homeTeam": "https://next.fussball.de/mannschaft/-/02IP3D22A4000000VS5489B2VU3QR439",
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02TKV0GFLO000000VS5489BRVTFKGF73"
+      }
+    },
+    {
+      "id": "031DPRBMS0000000VS5489BUVUR5FS5A",
+      "status": "scheduled",
+      "kickoff": {
+        "dateKey": "2037728990",
+        "date": "",
+        "dateWithWeekday": " ",
+        "time": ""
+      },
+      "live": false,
+      "liveTickerCount": null,
+      "videoCount": 0,
+      "notAllocated": false,
+      "competitionName": "​  ",
+      "competitionBasicTypeId": "",
+      "competitionBasicTypeName": "",
+      "compoundId": "031DPK1PDC00000EVS5489BUVUR5FS5A-G",
+      "leagueLevel": "",
+      "teamType": "​",
+      "guestTeam": {
+        "teamPermanentId": "02EVO53KJK000000VS5489B2VUBVHUE0",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00ES8GN9U000000MVV0AG08LVUPGND5I/verband/0123456789ABCDEF0123456700004170",
+        "name": " ",
+        "clubId": "00ES8GN9U000000MVV0AG08LVUPGND5I"
+      },
+      "homeTeam": {
+        "teamPermanentId": "",
+        "clubLogoURL": "https://www.fussball.de/export.media/-/action/getLogo/id/00000000000000000000000000000000/verband/0123456789ABCDEF0123456700004170",
+        "name": "   ",
+        "clubId": ""
+      },
+      "result": {
+        "text": "  ",
+        "specialResult": false
+      },
+      "hasSubscription": true,
+      "venue": null,
+      "prePublished": false,
+      "readable": {
+        "sourceUrl": "https://www.fussball.de/spiel/-/spiel/031DPRBMS0000000VS5489BUVUR5FS5A",
+        "pageTitle": "TSV Lämmerspiel - Kinderfestival - SKG Sprendlingen Ergebnis: G-Junioren Kinderfußball - G-Junioren - 05.09.2026",
+        "description": "Alle Spielinfos zur Begegnung G-Junioren Kinderfußball - 2026/2027 der Kreis Offenbach G-Junioren Kinderfußball G-Junioren im Hessen bei FUSSBALL.DE",
+        "competition": "Festival 3.4",
+        "homeTeam": "SKG Sprendlingen",
+        "awayTeam": "SKG Sprendlingen"
+      },
+      "links": {
+        "match": "https://next.fussball.de/spiel/-/031DPRBMS0000000VS5489BUVUR5FS5A",
+        "matchLegacy": "https://www.fussball.de/spiel/-/spiel/031DPRBMS0000000VS5489BUVUR5FS5A",
+        "homeTeam": null,
+        "guestTeam": "https://next.fussball.de/mannschaft/-/02EVO53KJK000000VS5489B2VUBVHUE0"
       }
     }
   ]
